@@ -1,2 +1,2 @@
 # InitiationCpp
-Initiation au C++ pour formation professionnelle
+Initiation au C++ pour formation professionnelle ONERA
